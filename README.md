@@ -1,6 +1,6 @@
 # ACMEJogos 
 
-  Este repositório contém o código fonte desenvolvido para o trabalho de Programação Orientada à Objetos 2025/1. O projeto busca implementar um sistema em JAVA para gerenciamento de Clientes, Jogos e Aluguéis para uma loja.
+  Este repositório contém o código fonte desenvolvido para o trabalho de Programação Orientada à Objetos 2025/1. O projeto busca implementar um sistema em JAVA para gerenciamento de Clientes, Jogos e Aluguéis de uma loja.
 
 
 
