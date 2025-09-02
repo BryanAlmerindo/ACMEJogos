@@ -41,3 +41,15 @@ O projeto implementa um sistema em **Java** para gerenciamento de **Clientes**, 
 - 📑 **Arquivos TXT para persistência**
 
 ---
+
+## 📌 Como executar
+```bash
+# Clone este repositório
+git clone https://github.com/SEU_USUARIO/ACMEJogos.git
+
+# Entre na pasta do projeto
+cd ACMEJogos
+
+# Compile e execute (exemplo usando terminal)
+javac src/Main.java
+java src/Main
