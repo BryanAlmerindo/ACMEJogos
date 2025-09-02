@@ -36,7 +36,7 @@ O projeto implementa um sistema em **Java** para gerenciamento de **Clientes**, 
 ---
 
 ## 🚀 Tecnologias Utilizadas
-- ☕ **Java 17+**
+- ☕ **Java 23+**
 - 🖥️ **Swing (JFrame)**
 - 📑 **Arquivos TXT para persistência**
 
